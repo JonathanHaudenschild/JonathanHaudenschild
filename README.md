@@ -20,17 +20,6 @@ ideas into approachable products.
 
 Outside of software, I produce electronic music, DJ, and help organize festivals.
 
-## Selected projects
-
-- [Personal portfolio](https://jonathanhaudenschild.de) — my bilingual portfolio,
-  projects, experience, and experiments
-- [Reavo](https://github.com/JonathanHaudenschild/reavo) — a custom block-based
-  WordPress theme with Tailwind CSS and an interactive CPR simulation
-- [Shift-plan generator](https://github.com/JonathanHaudenschild/schichtplanGenerator)
-  — a TypeScript project for generating shift schedules
-- [Timeline](https://github.com/JonathanHaudenschild/timeline) — a TypeScript
-  timeline project
-
 ## Elsewhere
 
 - [Work GitHub](https://github.com/JonathanHaudenschild-TsB)
