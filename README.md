@@ -15,6 +15,7 @@ ideas into approachable products.
 - Mobile and cross-platform applications
 - UI/UX research and interaction design
 - Databases, infrastructure, and developer tooling
+- Data science, reinforcement learning, and foundational machine learning
 - Games, interactive media, and creative coding
 
 Outside of software, I produce electronic music, DJ, and help organize festivals.
